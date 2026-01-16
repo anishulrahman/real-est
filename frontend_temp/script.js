@@ -1,5 +1,4 @@
-const BACKEND_URL = "http://127.0.0.1:5000";
-
+const BACKEND_URL = "https://real-est-backend.onrender.com";
 /* ESTIMATE PRICE */
 async function estimatePrice() {
   const area = document.getElementById("area").value;
